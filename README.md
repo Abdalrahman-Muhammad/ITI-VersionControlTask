@@ -14,4 +14,4 @@ Q4 answers
 to delete tag locally ==> (git tag -d V1.7)
 to delete tag remotely ==> (git push origin --delete V1.7)
 
-![my image](/ITI-VersionControlTask/assests/profilePic.png)
+![my image](assests/profilePic.png)
